@@ -42,7 +42,7 @@ Borrow out = A'Bin + A'B + BBin
 
 
 
-**Procedure**
+**Procedure:**
 
 1.Open Quartus II & create a new project and then type the program in Quartus software.
 
