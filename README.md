@@ -12,9 +12,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Software – Quartus prime
 
-**Full Adder and Full Subtractor**
+**Full Adder and Full Subtractor:**
 
-**Full Adder**
+**Full Adder:**
 
 Full adder is a digital circuit used to calculate the sum of three binary bits. It consists of three inputs and two outputs. Two of the input variables, denoted by A and B, represent the two significant bits to be added. The third input, Cin, represents the carry from the previous lower significant position. Two outputs are necessary because the arithmetic sum of three binary digits ranges in value from 0 to 3, and binary 2 or 3 needs two digits. The two outputs are sum and carry.
 
@@ -24,9 +24,9 @@ Carry = AB + ACin + BCin
 
 ![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
 
-**Figure -1 FULL ADDER**
+**Figure -1 FULL ADDER:**
 
-**Full Subtractor**
+**Full Subtractor:**
 
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow.
 
@@ -36,9 +36,9 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-**Truthtable**
+**Truthtable:**
 
-![WhatsApp Image 2024-03-27 at 19 10 20_3cbf0233](https://github.com/keerthanapillaram/FULL_ADDER_SUBTRACTOR/assets/145743072/4a08acee-4b75-4eb8-8589-b5f2afb06ed5)
+![image](https://github.com/Nishadayalan/FULL_ADDER_SUBTRACTOR/assets/144870468/a623ed6b-209b-40dd-b52a-b4c6748b2f60)
 
 
 
@@ -78,12 +78,12 @@ endmodule
 ![image](https://github.com/Nishadayalan/FULL_ADDER_SUBTRACTOR/assets/144870468/498a0876-ff74-4e8f-8460-07714b2e2a1d)
 
 
-**RTL Schematic**
+**RTL Schematic:**
 
 ![image](https://github.com/Nishadayalan/FULL_ADDER_SUBTRACTOR/assets/144870468/7e09d050-1020-4528-b927-3e9964dd8036)
 
 
-**Output Timing Waveform**
+**Output Timing Waveform:**
 ![image](https://github.com/Nishadayalan/FULL_ADDER_SUBTRACTOR/assets/144870468/47fd7700-d751-4103-b49e-e5688df760ab)
 
 
